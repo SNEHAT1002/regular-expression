@@ -1,0 +1,4 @@
+import re
+S = "The rain in Spain"
+s="Spain"
+print(re.search(s, S))
